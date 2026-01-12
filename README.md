@@ -9,9 +9,9 @@ Frontend Developer enfocado en construir interfaces modernas, responsivas y acce
 - Git/GitHub
 
 💻 Proyectos destacados
-- [Mini CRM](link) — CRUD UI con React  
-- [Order Summary Component](link) — HTML/CSS responsive  
-- [Menu Web](link) — UI interactiva responsive
+- [Note app](https://github.com/francisco320/toDo-traker) — CRUD UI con VanillaJS  
+- [Raiting component](https://github.com/francisco320/rating-component) — HTML/js/CSS responsive  
+- [Bento Grid](https://github.com/francisco320/bento-grid-grid-with-sass) — UI responsive
 
 📫 Contact:
 LinkedIn: https://www.linkedin.com/in/fran320/
